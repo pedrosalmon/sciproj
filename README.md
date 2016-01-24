@@ -8,7 +8,7 @@ Clone the project.
 
 OR
 
-wget 
+wget https://raw.githubusercontent.com/pedrosalmon/sciproj/master/sciproj.py
 
 OR
 
